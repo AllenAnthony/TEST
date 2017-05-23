@@ -9,4 +9,7 @@ int main()
     //qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
     //strat to change
     double dsfa;
+    //11111111111111111111
+    double er;
+    
 }
