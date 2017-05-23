@@ -16,4 +16,9 @@ int main()
     // ewafrgfqrg
     //asdffdsa
     int a;
+<<<<<<< Updated upstream
+    gdfgs
+=======
+    //mmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+>>>>>>> Stashed changes
 }
