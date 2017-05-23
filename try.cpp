@@ -12,5 +12,6 @@ int main()
     double dsfa;
     int aaa;
     for(int i=1;i<10;i++);
-    
+    dfsaeafw
+    ewafrgfqrg
 }
