@@ -6,4 +6,5 @@ int main()
 {
     int zxcv;
     double qqq;
+    cout<<"dsafd";
 }
