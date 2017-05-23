@@ -5,5 +5,5 @@ using namespace std;
 int main()
 {
     int zxcv;
-    int a1;
+    int aaa;
 }
