@@ -6,6 +6,5 @@ int main()
 {
     int zxcv;
     int bbb;
-    int fasd;
-    //fdasagsadgsderqw
+    //qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 }
