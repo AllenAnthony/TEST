@@ -9,4 +9,5 @@ int main()
     while(0);
     //fdsffgddfddddddddddddddddddddddddd
     //qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+    int asdf;
 }
