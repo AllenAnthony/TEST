@@ -10,4 +10,7 @@ int main()
     //qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
     //strat to change
     double dsfa;
+    int aaa;
+    for(int i=1;i<10;i++);
+    
 }
