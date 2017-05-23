@@ -10,5 +10,5 @@ int main()
     //qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
     //strat to change
     double dsfa;
-    //new
+    //master
 }
