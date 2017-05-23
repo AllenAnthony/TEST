@@ -5,6 +5,6 @@ using namespace std;
 int main()
 {
     int zxcv;
-    double www;
+    double qqq;
     cout<<"dsafd";
 }
