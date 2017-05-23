@@ -6,4 +6,5 @@ int main()
 {
     int zxcv;
     int dsafg;
+    cout<<zxcv;
 }
