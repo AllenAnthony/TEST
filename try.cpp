@@ -8,4 +8,5 @@ int main()
     int bbb;
     //qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
     //strat to change
+    double dsfa;
 }
